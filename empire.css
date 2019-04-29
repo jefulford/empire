@@ -1,0 +1,43 @@
+body {
+	background-image: url("empire.jpg");
+	background-position: top center;
+	background-size: 150%;
+}
+.container {
+	background-color: rgb(255, 255, 255, .5);
+}
+.navbar-paris a {
+	color: rgb(90, 90, 90);
+	font-style: italic;
+	font-family: Georgia;
+}
+.navbar-paris li:hover {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.navbar-paris a:hover {
+	background: rgba(255, 255, 255, 0) !important;
+}
+.div1 {
+	font-family: Didot;
+}
+a {
+	color: rgb(90, 90, 90) !important;
+}
+.div1 h1 {
+	font-size: 140px;
+}
+.div1 h3 {
+	font-size: 30px;
+	font-style: italic;
+}
+
+.navbar-paris2 li:hover {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+}
+.navbar-paris2 a:hover {
+	background: rgba(255, 255, 255, 0) !important;
+}
